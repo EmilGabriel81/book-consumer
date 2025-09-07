@@ -1,4 +1,4 @@
-package com.consumer.consumer;
+package com.consumer.consumer.kafka;
 
 import org.common.dto.BookDTO;
 import org.springframework.kafka.annotation.KafkaListener;
